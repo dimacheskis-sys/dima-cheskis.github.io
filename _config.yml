@@ -1,7 +1,7 @@
-url: "http://natlang.cs.sfu.ca"
+url: "https://github.com/dimacheskis-sys/dima-cheskis.github.io"
 baseurl: ""
 exclude: ['README.md']
-timezone: US/Pacific
+timezone: Asia/Jerusalem
 markdown: kramdown
 permalink: posts/:year-:month-:day-:title
 future: true
